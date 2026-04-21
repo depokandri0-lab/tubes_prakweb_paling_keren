@@ -4,6 +4,6 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Ini Halaman Home</h1>
+    <h1>Selamat Datang</h1>
 </body>
 </html>
