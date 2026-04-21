@@ -17,4 +17,4 @@ Route::get('/home', function () {
 Route::get('selamat jalan', function () {
     return view('selamat jalan.selamatjalan2');
 });
-
+    
