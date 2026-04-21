@@ -14,6 +14,10 @@ Route::get('/home', function () {
     return view('home');
 });
 
+Route::get('selamat jalan', function () {
+    return view('selamat jalan.selamatjalan2');
+});
+    
 Route::get('/contact', function () {
     return view('contact');
 });
